@@ -1,0 +1,23 @@
+{
+  "name": "weather-oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifveras/Web3Waves-Cousera-Oracles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lifveras/Web3Waves-Cousera-Oracles/issues"
+  },
+  "homepage": "https://github.com/lifveras/Web3Waves-Cousera-Oracles#readme",
+  "dependencies": {
+    "@waves/waves-transactions": "^4.2.5-beta.3",
+    "axios": "^0.26.0"
+  }
+}
